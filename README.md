@@ -1,5 +1,3 @@
-# e3d-toolchanger-profiles
-
 E3D tool changer slicer tools
 ===================================
 
