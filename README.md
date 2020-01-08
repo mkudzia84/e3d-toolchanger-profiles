@@ -18,6 +18,7 @@ The new behaviour is:
 - prime the new extruder (as before)
 - at end of layer processing, check which extruders that have minimum prime tower volume, have not been primed
 - use the last active extruder to plug the missing gaps in the prime tower
+```
 
 ![Behaviour After Patch](https://github.com/mkudzia84/e3d-toolchanger-profiles/blob/master/after_patch.png)
 
