@@ -7,10 +7,12 @@ Contains:
 - E3D tool changer Duet 2 firmware
 - STL files for purge buckets and accesories
 
-CuraEngine 4.4.1 fork build
-===================================
+### CuraEngine 4.4.1 fork build
+Can be found here:
+[CuraEngine 4.4.1 zip](https://github.com/mkudzia84/e3d-toolchanger-profiles/blob/master/e3dtc-hemera-fw-config-reprap-2.05-07012020.zip)
+
 Includes:
-- better prime tower generation (no skiped layers/priming in the 'air'), no extra tool changes
+1. better prime tower generation (no skiped layers/priming in the 'air'), no extra tool changes
 
 The new behaviour is:
 ```
